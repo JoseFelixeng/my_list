@@ -144,9 +144,11 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 127 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
 | 128 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
 
+
+
 ## Mangas Lidos 
 | List  |  Name |  Note | Status |
-|---|---| --- | --- | ---|
+|---|---| --- | --- |
 | 1 |  Naruto | 9.0 ⭐| 100% | 
 | 2 |  Bleach | 7.5 ⭐| 100% | 
 | 3 |  One Piece | 9.8 ⭐| Acompanhando | 
