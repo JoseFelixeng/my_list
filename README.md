@@ -1,1 +1,5 @@
-# A_M_list
+# ANIME LIST 
+
+ `#000000`
+
+ 
