@@ -7,7 +7,7 @@ Esse repositorio conterá minha anime e mangá list, com sua descrição e a not
 
 ## List 
     1 - Dragon  ball z (Nota: 9.0 ⭐) 
-![alt text](image.png)
+![alt text](./img/2.png)
 
         Descrição: Escrito por Akira toryama DBZ segue a historia do Goku um ser de outro planeta, que busca atráves das artes marciais lutar com seus inimigos e proteger a terra.
 
