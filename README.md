@@ -13,8 +13,9 @@ Data de Atualização: 02/06/2024
 
 Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitidos.
 
+--------------------------------------------------------------------
 ## List 📋  
-
+--------------------------------------------------------------------
 | List  |  Name |  Note | Categoria | Genero
 |---|---| --- | --- | ---|
 | 1 | Dragon  ball z | 9.0 ⭐| Anime | Shounen|
@@ -146,8 +147,9 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 
 
-
-## Mangas Lidos 
+---------------------------------------------
+## Mangas
+---------------------------------------------
 | List  |  Name |  Note | Status |
 |---|---| --- | --- |
 | 1 |  Naruto | 9.0 ⭐| 100% | 
