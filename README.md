@@ -146,6 +146,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 
 
+
 ## Mangas Lidos 
 | List  |  Name |  Note | Status |
 |---|---| --- | --- |
