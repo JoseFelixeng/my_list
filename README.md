@@ -89,7 +89,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 70 | Granblue Fantasy | 5.5 ⭐| Anime | Fantasia |
 | 71 | Charlotte | 6.0 ⭐| Anime | Escola/Super Power |
 | 72 | Goblin Slayer | 6.0 ⭐| Anime | Drama/Fantasia |
-| 73 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 73 | Barakamon | 7.0 ⭐| Anime | Slice of life |
 | 74 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
 | 75 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
 | 76 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
