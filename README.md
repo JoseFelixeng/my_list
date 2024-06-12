@@ -8,7 +8,6 @@ Data de Atualização: 02/06/2024
 
 -------------------------------------------
 
-
 ![Imagem Luffy](./img/1.png)
 
 Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitidos.
@@ -90,60 +89,102 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 71 | Charlotte | 6.0 ⭐| Anime | Escola/Super Power |
 | 72 | Goblin Slayer | 6.0 ⭐| Anime | Drama/Fantasia |
 | 73 | Barakamon | 7.0 ⭐| Anime | Slice of life |
-| 74 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 75 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 76 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 77 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 78 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 79 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 80 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 81 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 82 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 84 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 85 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 86 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 87 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 88 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 89 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 90 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 91 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 92 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 93 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 94 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 95 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 96 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 97 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 98 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 99 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 100 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 101 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 102 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 103 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 104 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 105 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 106 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 107 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 108 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 109 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 110 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 111 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 112 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 113 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 114 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 115 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 116 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 117 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 118 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 119 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 120 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 121 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 122 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 123 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 124 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 125 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 74 | Nanatsu no Bitoku | 5.0 ⭐| Anime | Fantasia |
+| 75 | Death Parade | 7.0 ⭐| Anime | Drama |
+| 76 | Tensei shitara Slime Datta Ken | 8.0 ⭐| Anime | Isekai |
+| 77 | Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai | 8.5 ⭐| Anime | Drama/Romance |
+| 78 | Rakudai Kishi no Cavalry | 7.0 ⭐| Anime | Fantasia |
+| 79 | Golden Boy | 9.0 ⭐| Anime | comédia |
+| 80 | Btooom! | 7.5 ⭐| Anime | Sci-fi |
+| 81 | Hataraku Maou-sama! | 8.3 ⭐| Anime | Comédia/Fantasia |
+| 82 | Ben-To | 7.8 ⭐| Anime | Comédia |
+| 84 | Mob Psycho 100 | 6.0 ⭐| Anime | Comédia/Supernatural |
+| 85 | Tate no Yuusha no Nariagari | 8.0 ⭐| Anime | Isekai |
+| 86 | Yakusoku no Neverland | 8.8 ⭐| Anime | Drama/Suspense |
+| 87 | Kimetsu no Yaiba | 6.0 ⭐| Anime | Shounen |
+| 88 | Black Clover | 8.0 ⭐| Anime | Shounen |
+| 89 | Dororo | 7.2 ⭐| Anime | Fantasia |
+| 90 | Maou-sama, Retry! | 7.0 ⭐| Anime | Isekai |
+| 91 | Dr. Stone | 6.0 ⭐| Anime | Comédia/Fantasia |
+| 92 | Dumbbell Nan Kilo Moteru? | 6.0 ⭐| Anime | Esporte |
+| 93 | School Days | 6.0 ⭐| Anime | Drama/Terror |
+| 94 | Enen no Shouboutai | 7.2 ⭐| Anime | Action/Fantasia |
+| 95 | Amagi Brilliant Park | 7.9 ⭐| Anime | Comédia/Fantasia |
+| 96 | Domestic na Kanojo | 6.6 ⭐| Anime | Drama/Romance |
+| 97 | 5-toubun no Hanayome* | 9.5 ⭐| Anime | Escolar |
+| 98 | Golden Time | 7.0 ⭐| Anime | Drama/Romance |
+| 99 | Gakkougurashi! | 7.0 ⭐| Anime | Mystery/Suspense |
+| 100 | Kobayashi-san Chi no Maid Dragon | 8.3 ⭐| Anime | Comédia/Fantasia |
+| 101 | Vinland Saga | 7.5 ⭐| Anime | Action/Fantasia |
+| 102 | Hinomaruzumou | 6.0 ⭐| Anime | Shounen/Luta |
+| 103 | Steins;Gate | 8.9 ⭐| Anime | Sci-fi |
+| 104 | Kakegurui | 7.3 ⭐| Anime | Strategy Game |
+| 105 | Keijo!!!!!!!! | 6.2 ⭐| Anime | Sports |
+| 106 | Sakamoto desu ga? | 7.2 ⭐| Anime | Comédia |
+| 107 | Darwin's Game | 7.4 ⭐| Anime | Action/Mistery |
+| 108 | Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. | 7.0 ⭐| Anime | Comédia/Fantasia |
+| 109 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka | 8.2 ⭐| Anime | Adventure/Fantasia |
+| 110 | Yahari Ore no Seishun Love Comedy wa Machigatteiru. | 9.0 ⭐| Anime | Comedia/Romance |
+| 111 | Kenpuu Denki Berserk | 8.0 ⭐| Anime | Drama/Fantasia |
+| 112 | Infinite Dendrogram | 6.0 ⭐| Anime | Action/Fantasia |
+| 113 | Zetman | 7.0 ⭐| Anime | Seinen |
+| 114 | Gleipnir | 7.0 ⭐| Anime | Terror/Fantasia |
+| 115 | Hellsing Ultimate | 7.5 ⭐| Anime | Vampire/Gore |
+| 116 | Youjo Senki | 8.5 ⭐| Anime | Isekai  |
+| 117 | Akashic Records of Bastard Magic Instructor | 7.4 ⭐| Anime | Fantasia |
+| 118 | The God of High School | 7.0 ⭐| Anime | Fantasia |
+| 119 | Huan Jie Wang | 7.0 ⭐| Anime/Chinês | Action/Fantasia |
+| 120 | Quan zhi gau shou | 8.1 ⭐| Anime/Chinês | Slice Of life/Game |
+| 121 | Dragon Quest: Dai no Daibouken | 7.5 ⭐| Anime | Drama/Fantasia |
+| 122 | Jujutsu Kaisen | 8.8 ⭐| Anime | Action/Fantasia |
+| 123 | Ultraman | 6.5 ⭐| Anime | Seinen |
+| 124 | Magi: The Labyrinth of Magic | 8.5 ⭐| Anime | Fantasia |
+| 125 | Beastars | 7.8 ⭐| Anime | Drama/Suspense |
 | 126 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
 | 127 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
 | 128 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 129 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 130 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 131 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 132 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 133 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 134 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 135 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 136 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 137 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 138 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 139 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 140 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 141 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 142 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 143 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 144 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 145 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 146 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 147 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 148 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 149 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 150 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 151 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 152 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 153 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 154 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 155 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 156 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 157 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 158 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 159 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 160 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 161 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 162 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 163 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 164 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 165 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 166 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 167 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 168 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 169 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 170 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
 
 
 
@@ -156,4 +197,4 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 2 |  Bleach | 7.5 ⭐| 100% | 
 | 3 |  One Piece | 9.8 ⭐| Acompanhando | 
 | 4 |   Hunter x Hunter | 9.2 ⭐| Cap:145 | 
-| 5|   Solo Leveling | 8.4 ⭐| 100% |
+| 5 |   Solo Leveling | 8.4 ⭐| 100% |
