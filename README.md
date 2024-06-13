@@ -175,16 +175,28 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 158 | Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita | 6.5 ⭐| Anime | Isekai |
 | 159 | Bastard!! Ankoku no Hakaishin | 7.0 ⭐| Anime | Action/Fantasia |
 | 160 | Tensei shitara Ken deshita  | 7.5 ⭐| Anime | Isekai |
-| 161 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 162 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 163 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 164 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 165 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 166 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 167 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 168 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 169 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 170 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 161 | Tokyo Revengers | 8.0 ⭐| Anime | Drama/Supernatural |
+| 162 | Blue Lock | 8.0 ⭐| Anime | Sports |
+| 163 | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | 7.3 ⭐| Anime | Isekai |
+| 164 | Mashle | 8.0 ⭐| Anime | Shounen |
+| 165 | Isekai Meikyuu de Harem wo | 7.2 ⭐| Anime | Isekai |
+| 166 | Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi | 6.0 ⭐| Anime | Drama/Fantasia |
+| 167 | Kikansha no Mahou wa Tokubetsu desu | 7.8 ⭐| Anime | Fantasia |
+| 168 | Boushoku no Berserk  | 7.0 ⭐| Anime | Action/Fantasia |
+| 169 | Toaru Ossan no VRMMO Katsudouki | 7.5 ⭐| Anime | Fantasia |
+| 170 | Sousou no Frieren | 9.1 ⭐| Anime | Action/Fantasia |
+| 171 | Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su | 8.5 ⭐| Anime | Action/Fantasia |
+| 172 | A Returner's Magic Should Be Special | 8.1 ⭐| Anime | Action/Fantasia |
+| 173 | Romantic Killer | 8.8 ⭐| Anime | Comedia/Romance |
+| 174 | Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru | 8.8 ⭐| Anime | Fantasia |
+| 175 | Dungeon Meshi | 7.1 ⭐| Anime | Action/Fantasia |
+| 176 | Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin | 7.0 ⭐| Anime | Isekai |
+| 177 | Saikyou Tank no Meikyuu Kouryaku| 6.5 ⭐| Anime | Action/Fantasia |
+| 178 | Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen | 7.8 ⭐| Anime | Isekai |
+| 179 | Sentai Daishikkaku | 7.4 ⭐| Anime | Super Power |
+| 180 | Kaijuu 8-gou | 8.8 ⭐| Anime | Action/Sci-fi |
+| 181 | Re:Monster | 7.4 ⭐| Anime | Isekai |
+| 182 | Isekai Quartet | 8.8 ⭐| Anime | Isekai |
 
 
 
@@ -198,3 +210,23 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 3 |  One Piece | 9.8 ⭐| Acompanhando | 
 | 4 |   Hunter x Hunter | 9.2 ⭐| Cap:145 | 
 | 5 |   Solo Leveling | 8.4 ⭐| 100% |
+
+
+
+
+## Filmes de Animes 
+
+
+| List  |  Name |  Note | Type |
+| --- | --- | --- | --- |
+| 1 |  Koe no katashi  |  8.4 ⭐ | Drama/Romance |
+| 2 |  Kimi no Na wa.  |  8.0 ⭐ | Drama/Romance |
+| 3 |  Kimi no Suizou wo Tabetai |  7.0 ⭐ | Drama/Romance |
+| 4 |  Tamako Love Story |  8.2 ⭐ | Drama/Romance |
+| 5 |  Non Non Biyori Movie: Vacation |  7.4 ⭐ | Comédia |
+| 6 |  K-On! Movie  |  6.4 ⭐ | Drama/Romance |
+| 7 |  Koe no katashi  |  8.4 ⭐ | Drama/Romance |
+| 8 |  Koe no katashi  |  8.4 ⭐ | Drama/Romance |
+| 9 |  Koe no katashi  |  8.4 ⭐ | Drama/Romance |
+| 10 |  Koe no katashi  |  8.4 ⭐ | Drama/Romance |
+| 11 |  Koe no katashi  |  8.4 ⭐ | Drama/Romance |
