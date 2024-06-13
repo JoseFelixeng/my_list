@@ -188,9 +188,9 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 
 
----------------------------------------------
+
 ## Mangas
----------------------------------------------
+
 | List  |  Name |  Note | Status |
 |---|---| --- | --- |
 | 1 |  Naruto | 9.0 ⭐| 100% | 
