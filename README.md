@@ -12,9 +12,9 @@ Data de Atualização: 02/06/2024
 
 Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitidos.
 
---------------------------------------------------------------------
 ## List 📋  
---------------------------------------------------------------------
+
+
 | List  |  Name |  Note | Categoria | Genero
 |---|---| --- | --- | ---|
 | 1 | Dragon  ball z | 9.0 ⭐| Anime | Shounen|
@@ -140,41 +140,41 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 123 | Ultraman | 6.5 ⭐| Anime | Seinen |
 | 124 | Magi: The Labyrinth of Magic | 8.5 ⭐| Anime | Fantasia |
 | 125 | Beastars | 7.8 ⭐| Anime | Drama/Suspense |
-| 126 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 127 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 128 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 129 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 130 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 131 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 132 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 133 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 134 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 135 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 136 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 137 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 138 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 139 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 140 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 141 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 142 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 143 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 144 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 145 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 146 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 147 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 148 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 149 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 150 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 151 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 152 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 153 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 154 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 155 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 156 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 157 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 158 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 159 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
-| 160 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
+| 126 | Hortensia Saga | 5.5 ⭐| Anime | Action/Fantasia |
+| 127 | Hataraku Saibou Black | 7.8 ⭐| Anime | Drama/Action |
+| 128 | Kumo desu ga, Nani ka? | 7.9 ⭐| Anime | Isekai |
+| 129 | Ore dake Haireru Kakushi Dungeon | 6.9 ⭐| Anime | Action/Fantasia |
+| 130 | Yingxiong Zai Lin | 7.0 ⭐| Anime/Chinês | Sci-fi |
+| 131 | Kamisama ni Natta Hi | 6.7 ⭐| Anime | Drama/Fantasia |
+| 132 | Kami no Tou | 8.0 ⭐| Anime | Action/Fantasia |
+| 133 | Tengen Toppa Gurren Lagann | 8.0 ⭐| Anime | Adventure/Fantasia |
+| 134 | Kaifuku Jutsushi no Yarinaoshi | 6.0 ⭐| Anime | Fantasia |
+| 135 | Gokushufudou | 7.5 ⭐| Anime | Gag Humor |
+| 136 | Edens Zero | 7.4 ⭐| Anime | Action/Fantasia |
+| 137 | 86 | 8.5 ⭐| Anime | Action/Fantasia |
+| 138 | Baki | 7.0 ⭐| Anime | Combat |
+| 139 | B: The Beginning | 7.0 ⭐| Anime | Action/Suspense |
+| 140 | Yasuke | 5.9 ⭐| Anime | Drama/Fantasia |
+| 141 | Mahoutsukai no Yome | 8.0 ⭐| Anime | Drama/Fantasia |
+| 142 | Kiseijuu: Sei no Kakuritsu | 7.9 ⭐| Anime | Supernatural |
+| 143 | JoJo no Kimyou na Bouken | 7.8 ⭐| Anime | Shounen |
+| 144 | Xian Wang de Richang Shenghuo | 8.8 ⭐| Anime/Chinês | Comédia/Fantasia |
+| 145 | Saiki Kusuo no Ψ-nan  | 9.0 ⭐| Anime | Comédia/Supernatural |
+| 146 | Cike Wu Liuqi | 9.1 ⭐| Anime/Chinês | Comédia/Fantasia |
+| 147 | Shuumatsu no Walküre | 7.0 ⭐| Anime | Drama/Fantasia |
+| 148 | Megalo Box | 7.2 ⭐| Anime | Sports/Combat |
+| 149 | Re:Zero kara Hajimeru Isekai Seikatsu | 9.0 ⭐| Anime | Isekai |
+| 150 | Mushoku Tensei: Isekai Ittara Honki Dasu | 9.3 ⭐| Anime | Isekai |
+| 151 | Platinum End  | 4.0 ⭐| Anime | Drama/Fantasia |
+| 152 | Super Crooks | 7.5 ⭐| Anime | Drama/Fantasia |
+| 153 | Kono Subarashii Sekai ni Shukufuku o! | 8.9 ⭐| Anime | Isekai |
+| 154 | Aggressive Retsuko  | 8.0 ⭐| Anime | Comédia |
+| 155 | Great Pretender | 8.2 ⭐| Anime | Action/Fantasia |
+| 156 | Yuusha, Yamemasu: Tsugi no Shokuba wa Maoujou | 6.9 ⭐| Anime | Action/Fantasia |
+| 157 | Spy x Family | 8.5 ⭐| Anime | Action/Comedy |
+| 158 | Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita | 6.5 ⭐| Anime | Isekai |
+| 159 | Bastard!! Ankoku no Hakaishin | 7.0 ⭐| Anime | Action/Fantasia |
+| 160 | Tensei shitara Ken deshita  | 7.5 ⭐| Anime | Isekai |
 | 161 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
 | 162 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
 | 163 | -- | 6.0 ⭐| Anime | Drama/Fantasia |
