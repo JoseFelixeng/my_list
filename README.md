@@ -225,8 +225,8 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 4 |  Tamako Love Story |  8.2 ⭐ | Drama/Romance |
 | 5 |  Non Non Biyori Movie: Vacation |  7.4 ⭐ | Comédia |
 | 6 |  K-On! Movie  |  6.4 ⭐ | Drama/Romance |
-| 7 |  Koe no katashi  |  8.4 ⭐ | Drama/Romance |
-| 8 |  Koe no katashi  |  8.4 ⭐ | Drama/Romance |
-| 9 |  Koe no katashi  |  8.4 ⭐ | Drama/Romance |
-| 10 |  Koe no katashi  |  8.4 ⭐ | Drama/Romance |
-| 11 |  Koe no katashi  |  8.4 ⭐ | Drama/Romance |
+| 7 |  Koukaku Kidoutai |  6.0 ⭐ | Suspense |
+| 8 |  Hotaru no Haka  |  8.8 ⭐ | Drama |
+| 9 |  Sakasama no Patema |  8.0 ⭐ | Drama/Romance |
+| 10 |  Amagi Brilliant Park |  8.0 ⭐ | Comédia |
+| 11 | Sen to Chihiro no Kamikakushi |  8.8 ⭐ | Drama/Romance |
