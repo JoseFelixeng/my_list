@@ -197,6 +197,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 180 | Kaijuu 8-gou | 8.8 ⭐| Anime | Action/Sci-fi |
 | 181 | Re:Monster | 7.4 ⭐| Anime | Isekai |
 | 182 | Isekai Quartet | 8.8 ⭐| Anime | Isekai |
+| 183 | Jitsu wa Ore, Saikyou deshita? | 6.8 ⭐| Anime | Isekai |
 
 
 
