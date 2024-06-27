@@ -4,7 +4,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 13/06/2024
+Data de Atualização: 27/06/2024
 
 -------------------------------------------
 
@@ -198,6 +198,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 181 | Re:Monster | 7.4 ⭐| Anime | Isekai |
 | 182 | Isekai Quartet | 8.8 ⭐| Anime | Isekai |
 | 183 | Jitsu wa Ore, Saikyou deshita? | 6.8 ⭐| Anime | Isekai |
+| 184 | Hitori no shita |  ⭐| Anime | Shounen |
 
 
 
