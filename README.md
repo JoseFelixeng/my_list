@@ -198,7 +198,8 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 181 | Re:Monster | 7.4 ⭐| Anime | Isekai |
 | 182 | Isekai Quartet | 8.8 ⭐| Anime | Isekai |
 | 183 | Jitsu wa Ore, Saikyou deshita? | 6.8 ⭐| Anime | Isekai |
-| 184 | Hitori no shita |  ⭐| Anime | Shounen |
+| 184 | Hitori no shita | 6.0 ⭐| Anime | Shounen |
+| 185 | Isekai Suicide Squad | 7.5 ⭐ | Anime | Isekai |
 
 
 
