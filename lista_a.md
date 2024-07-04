@@ -200,8 +200,8 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 183 | Jitsu wa Ore, Saikyou deshita? | 6.8 ⭐| Anime | Isekai |
 | 184 | Hitori no shita | 6.0 ⭐| Anime | Shounen |
 | 185 | Isekai Suicide Squad | 7.5 ⭐ | Anime | Isekai |
-| 186 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru| 7.9 ⭐ | Anime | Shounen/comedia | 
-| 186 | Maougun Saikyou no Majutsushi wa Ningen datta | 7.0 ⭐ | Anime | Fantasia/Isekai | 
+| 186 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 7.9 ⭐ | Anime | Shounen/comedia | 
+| 187 | Maougun Saikyou no Majutsushi wa Ningen datta | 7.0 ⭐ | Anime | Fantasia/Isekai | 
 
 
 
@@ -236,3 +236,18 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 9 |  Sakasama no Patema |  8.0 ⭐ | Drama/Romance |
 | 10 |  Amagi Brilliant Park |  8.0 ⭐ | Comédia |
 | 11 | Sen to Chihiro no Kamikakushi |  8.8 ⭐ | Drama/Romance |
+
+
+
+#### Animes da Temporada 
+
+
+| List  |  Name |  Episodio | 
+|---|---| --- | 
+| 1 | One Piece 14T | 1110 | 
+| 2 | Boku no Hero 7T | 146 | 
+| 3 | Isekai Suicide Squad | 3 | 
+| 4 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 1 | 
+| 5 | Maougun Saikyou no Majutsushi wa Ningen datta | 2 | 
+| 6 | Hitori no shita | --- | 
+| 7 | Quanzhi Gaoshou (The Kings Avatar) 3 | 2 | 
