@@ -200,7 +200,11 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 183 | Jitsu wa Ore, Saikyou deshita? | 6.8 ⭐| Anime | Isekai |
 | 184 | Hitori no shita | 6.0 ⭐| Anime | Shounen |
 | 185 | Isekai Suicide Squad | 7.5 ⭐ | Anime | Isekai |
+<<<<<<< HEAD:lista_a.md
 | 186 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 7.9 ⭐ | Anime | Shounen/comedia | 
+=======
+| 186 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru| 7.9 ⭐ | Anime | Shounen/comedia | 
+>>>>>>> 0ebb73a (add):README.md
 | 187 | Maougun Saikyou no Majutsushi wa Ningen datta | 7.0 ⭐ | Anime | Fantasia/Isekai | 
 
 
