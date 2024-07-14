@@ -200,11 +200,8 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 183 | Jitsu wa Ore, Saikyou deshita? | 6.8 ⭐| Anime | Isekai |
 | 184 | Hitori no shita | 6.0 ⭐| Anime | Shounen |
 | 185 | Isekai Suicide Squad | 7.5 ⭐ | Anime | Isekai |
-<<<<<<< HEAD:lista_a.md
 | 186 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 7.9 ⭐ | Anime | Shounen/comedia | 
-=======
 | 186 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru| 7.9 ⭐ | Anime | Shounen/comedia | 
->>>>>>> 0ebb73a (add):README.md
 | 187 | Maougun Saikyou no Majutsushi wa Ningen datta | 7.0 ⭐ | Anime | Fantasia/Isekai | 
 
 
@@ -218,8 +215,8 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 1 |  Naruto | 9.0 ⭐| 100% | 
 | 2 |  Bleach | 7.5 ⭐| 100% | 
 | 3 |  One Piece | 9.8 ⭐| Acompanhando | 
-| 4 |   Hunter x Hunter | 9.2 ⭐| Cap:145 | 
-| 5 |   Solo Leveling | 8.4 ⭐| 100% |
+| 4 |  Hunter x Hunter | 9.2 ⭐| Cap:145 | 
+| 5 |  Solo Leveling | 8.4 ⭐| 100% |
 
 
 
@@ -248,10 +245,11 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | One Piece 14T | 1110 | 
+| 1 | One Piece 14T | 1111 | 
 | 2 | Boku no Hero 7T | 146 | 
-| 3 | Isekai Suicide Squad | 3 | 
-| 4 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 1 | 
-| 5 | Maougun Saikyou no Majutsushi wa Ningen datta | 2 | 
+| 3 | Isekai Suicide Squad | 4 | 
+| 4 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 2 | 
+| 5 | Maougun Saikyou no Majutsushi wa Ningen datta | 3 | 
 | 6 | Hitori no shita | --- | 
 | 7 | Quanzhi Gaoshou (The Kings Avatar) 3 | 2 | 
+| 8 | FAIRY TAIL 100 YEARS QUEST | 1 |
