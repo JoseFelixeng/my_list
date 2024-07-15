@@ -245,11 +245,11 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | One Piece 14T | 1111 | 
+| 1 | One Piece 14T | 1112 | 
 | 2 | Boku no Hero 7T | 146 | 
 | 3 | Isekai Suicide Squad | 4 | 
-| 4 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 2 | 
+| 4 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 3 | 
 | 5 | Maougun Saikyou no Majutsushi wa Ningen datta | 3 | 
 | 6 | Hitori no shita | --- | 
 | 7 | Quanzhi Gaoshou (The Kings Avatar) 3 | 2 | 
-| 8 | FAIRY TAIL 100 YEARS QUEST | 1 |
+| 8 | FAIRY TAIL 100 YEARS QUEST | 2 |
