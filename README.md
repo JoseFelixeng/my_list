@@ -248,7 +248,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 |---|---| --- | 
 | 1 | One Piece 14T | 1114 | 
 | 2 | Boku no Hero 7T | 146 | 
-| 3 | Isekai Suicide Squad | 4 | 
+| 3 | Isekai Suicide Squad | 6 | 
 | 4 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 5 | 
 | 5 | Maougun Saikyou no Majutsushi wa Ningen datta | 5 | 
 | 6 | Hitori no shita | --- | 
