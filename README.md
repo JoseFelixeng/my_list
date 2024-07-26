@@ -254,3 +254,4 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 6 | Hitori no shita | --- | 
 | 7 | Quanzhi Gaoshou (The Kings Avatar) 3 | 2 | 
 | 8 | FAIRY TAIL 100 YEARS QUEST | 3 |
+| 9 | Tsue to Tsurugi no Wistoria | 1 | 
