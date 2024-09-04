@@ -206,22 +206,6 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 187 | Maougun Saikyou no Majutsushi wa Ningen datta | 7.0 ⭐ | Anime | Fantasia/Isekai | 
 
 
-
-
-
-## Mangas
-
-| List  |  Name |  Note | Status |
-|---|---| --- | --- |
-| 1 |  Naruto | 9.0 ⭐| 100% | 
-| 2 |  Bleach | 7.5 ⭐| 100% | 
-| 3 |  One Piece | 9.8 ⭐| Acompanhando | 
-| 4 |  Hunter x Hunter | 9.2 ⭐| Cap:145 | 
-| 5 |  Solo Leveling | 8.4 ⭐| 100% |
-
-
-
-
 ## Filmes de Animes 
 
 
@@ -241,17 +225,30 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 
 
+
+## Mangas
+
+| List  |  Name |  Note | Status |
+|---|---| --- | --- |
+| 1 |  Naruto | 9.0 ⭐| 100% | 
+| 2 |  Bleach | 7.5 ⭐| 100% | 
+| 3 |  One Piece | 9.8 ⭐| Acompanhando | 
+| 4 |  Hunter x Hunter | 9.2 ⭐| Cap:145 | 
+| 5 |  Solo Leveling | 8.4 ⭐| 100% |
+
+
+
 #### Animes da Temporada 
 
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | One Piece 14T | 1114 | 
-| 2 | Boku no Hero 7T | 146 | 
+| 1 | One Piece 14T | 1117 | 
+| 2 | Boku no Hero 7T | 152 | 
 | 3 | Isekai Suicide Squad | 6 | 
-| 4 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 5 | 
+| 4 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 9 | 
 | 5 | Maougun Saikyou no Majutsushi wa Ningen datta | 5 | 
 | 6 | Hitori no shita | --- | 
 | 7 | Quanzhi Gaoshou (The Kings Avatar) 3 | 2 | 
-| 8 | FAIRY TAIL 100 YEARS QUEST | 3 |
-| 9 | Tsue to Tsurugi no Wistoria | 1 | 
+| 8 | FAIRY TAIL 100 YEARS QUEST | 8 |
+| 9 | Tsue to Tsurugi no Wistoria | 8 | 
