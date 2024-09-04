@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 27/06/2024
+Data de Atualização: 04/09/2024
 
 -------------------------------------------
 
@@ -13,7 +13,7 @@ Data de Atualização: 27/06/2024
 
 Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitidos.
 
-## List 📋  
+# List 📋  
 
 
 | List  |  Name |  Note | Categoria | Genero
@@ -226,7 +226,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 
 
-## Mangas
+# Mangas
 
 | List  |  Name |  Note | Status |
 |---|---| --- | --- |
@@ -238,7 +238,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 
 
-#### Animes da Temporada 
+## Animes da Temporada 
 
 
 | List  |  Name |  Episodio | 
