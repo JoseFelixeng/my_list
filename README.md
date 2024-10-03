@@ -219,7 +219,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 7 |  Koukaku Kidoutai |  6.0 ⭐ | Suspense |
 | 8 |  Hotaru no Haka  |  8.8 ⭐ | Drama |
 | 9 |  Sakasama no Patema |  8.0 ⭐ | Drama/Romance |
-| 10 |  Amagi Brilliant Park |  8.0 ⭐ | Comédia |
+| 10 | Amagi Brilliant Park |  8.0 ⭐ | Comédia |
 | 11 | Sen to Chihiro no Kamikakushi |  8.8 ⭐ | Drama/Romance |
 
 
@@ -247,7 +247,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 3 | Isekai Suicide Squad | 6 | 
 | 4 | --- | --- | 
 | 5 | --- | --- | 
-| 6 | Hitori no shita | --- | 
-| 7 | Quanzhi Gaoshou (The Kings Avatar) 3 | 2 | 
+| 6 | Re:Zero 3 - temporada | 1 | 
+| 7 | Dungeon ni deai - 4 temporada | 1 | 
 | 8 | FAIRY TAIL 100 YEARS QUEST | 12 |
-| 9 | Tsue to Tsurugi no Wistoria | 11 | 
+| 9 | Tsue to Tsurugi no Wistoria | 12 | 
