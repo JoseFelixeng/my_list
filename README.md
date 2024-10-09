@@ -203,6 +203,9 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 185 | Isekai Suicide Squad | 7.5 ⭐ | Anime | Isekai |
 | 186 | Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru | 7.9 ⭐ | Anime | Shounen/comedia | 
 | 187 | Maougun Saikyou no Majutsushi wa Ningen datta | 7.0 ⭐ | Anime | Fantasia/Isekai | 
+| 188 | Dandadan | 7.6 ⭐ | Anime | Supernatural | 
+| 189 | Tsue to Tsurugi no Wistoria | 8.2 ⭐ | Anime | Aventura |
+| 190 | Sayounara Ryuusei, Konnichiwa Jinsei | 8.2 ⭐ | Anime | Isekai-Aventura | 
 
 
 ## Filmes de Animes 
@@ -245,9 +248,10 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 1 | One Piece 14T | 1120 | 
 | 2 | Boku no Hero 7T | 155 | 
 | 3 | Isekai Suicide Squad | 6 | 
-| 4 | --- | --- | 
-| 5 | --- | --- | 
+| 4 | Dandadan | 1 | 
+| 5 | Bluelock | 1 | 
 | 6 | Re:Zero 3 - temporada | 1 | 
 | 7 | Dungeon ni deai - 4 temporada | 1 | 
 | 8 | FAIRY TAIL 100 YEARS QUEST | 12 |
-| 9 | Tsue to Tsurugi no Wistoria | 12 | 
+| 9 | Maou,Retry! R | 1 | 
+| 10 | Sayounara Ryuusei, Konnichiwa Jinsei | 1 |
