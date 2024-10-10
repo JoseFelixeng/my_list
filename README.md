@@ -206,6 +206,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 188 | Dandadan | 7.6 ⭐ | Anime | Supernatural | 
 | 189 | Tsue to Tsurugi no Wistoria | 8.2 ⭐ | Anime | Aventura |
 | 190 | Sayounara Ryuusei, Konnichiwa Jinsei | 8.2 ⭐ | Anime | Isekai-Aventura | 
+| 191 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki  | 7.0 ⭐ | Anime | Isekai-Aventura | 
 
 
 ## Filmes de Animes 
@@ -246,12 +247,13 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | List  |  Name |  Episodio | 
 |---|---| --- | 
 | 1 | One Piece 14T | 1120 | 
-| 2 | Boku no Hero 7T | 155 | 
+| 2 | Boku no Hero 7T | 156 | 
 | 3 | Isekai Suicide Squad | 6 | 
 | 4 | Dandadan | 1 | 
 | 5 | Bluelock | 1 | 
-| 6 | Re:Zero 3 - temporada | 1 | 
+| 6 | Re:Zero 3 - temporada | 2 | 
 | 7 | Dungeon ni deai - 4 temporada | 1 | 
 | 8 | FAIRY TAIL 100 YEARS QUEST | 12 |
-| 9 | Maou,Retry! R | 1 | 
+| 9 | Maou,Retry! R | 2 | 
 | 10 | Sayounara Ryuusei, Konnichiwa Jinsei | 1 |
+| 11 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 2 |
