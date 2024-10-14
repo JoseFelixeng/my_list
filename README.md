@@ -261,4 +261,5 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 13 | Dragon ball Daima |
 | 14 | Bleach- Arco final - 3 temporada | 2 | 
 | 15 | Blue Exorcist | 2 |  
+| 16 | Tower of Gods | 15 | 
 
