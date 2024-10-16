@@ -258,7 +258,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 10 | Sayounara Ryuusei, Konnichiwa Jinsei | 2 |
 | 11 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 2 |
 | 12 | Shangri-la Frontier | 1 | 
-| 13 | Dragon ball Daima |
+| 13 | Dragon ball Daima | 1 | 
 | 14 | Bleach- Arco final - 3 temporada | 2 | 
 | 15 | Blue Exorcist | 2 |  
 | 16 | Tower of Gods | 15 | 
