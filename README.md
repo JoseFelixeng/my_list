@@ -246,20 +246,20 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | One Piece 14T | 1121 | 
+| 1 | One Piece 14T | 1122 | 
 | 2 | Boku no Hero 7T | 159 | 
 | 3 | Isekai Suicide Squad | 6 | 
-| 4 | Dandadan | 2 | 
-| 5 | Bluelock | 2 | 
+| 4 | Dandadan | 3 | 
+| 5 | Bluelock | 3 | 
 | 6 | Re:Zero 3 - temporada | 2 | 
-| 7 | Dungeon ni deai - 4 temporada | 1 | 
+| 7 | Dungeon ni deai - 4 temporada | 3 | 
 | 8 | FAIRY TAIL 100 YEARS QUEST | 14 |
 | 9 | Maou,Retry! R | 3 | 
-| 10 | Sayounara Ryuusei, Konnichiwa Jinsei | 2 |
-| 11 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 2 |
-| 12 | Shangri-la Frontier | 1 | 
-| 13 | Dragon ball Daima | 1 | 
-| 14 | Bleach- Arco final - 3 temporada | 2 | 
+| 10 | Sayounara Ryuusei, Konnichiwa Jinsei | 3 |
+| 11 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 3 |
+| 12 | Shangri-la Frontier | 2 | 
+| 13 | Dragon ball Daima | 2 | 
+| 14 | Bleach- Arco final - 3 temporada | 3 | 
 | 15 | Blue Exorcist | 2 |  
-| 16 | Tower of Gods | 15 | 
+| 16 | Tower of Gods | 15 |
 
