@@ -253,13 +253,13 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 5 | Bluelock | 3 | 
 | 6 | Re:Zero 3 - temporada | 2 | 
 | 7 | Dungeon ni deai - 4 temporada | 3 | 
-| 8 | FAIRY TAIL 100 YEARS QUEST | 14 |
+| 8 | FAIRY TAIL 100 YEARS QUEST | 15 |
 | 9 | Maou,Retry! R | 3 | 
 | 10 | Sayounara Ryuusei, Konnichiwa Jinsei | 3 |
 | 11 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 3 |
-| 12 | Shangri-la Frontier | 2 | 
+| 12 | Shangri-la Frontier | 3 | 
 | 13 | Dragon ball Daima | 2 | 
 | 14 | Bleach- Arco final - 3 temporada | 3 | 
 | 15 | Blue Exorcist | 2 |  
-| 16 | Tower of Gods | 15 |
+| 16 | Tower of Gods | 16 |
 
