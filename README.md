@@ -249,17 +249,17 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 1 | One Piece 14T | 1122 | 
 | 2 | Boku no Hero 7T | 159 | 
 | 3 | Isekai Suicide Squad | 6 | 
-| 4 | Dandadan | 3 | 
+| 4 | Dandadan | 4 | 
 | 5 | Bluelock | 3 | 
-| 6 | Re:Zero 3 - temporada | 2 | 
+| 6 | Re:Zero 3 - temporada | 3 | 
 | 7 | Dungeon ni deai - 4 temporada | 3 | 
 | 8 | FAIRY TAIL 100 YEARS QUEST | 15 |
 | 9 | Maou,Retry! R | 3 | 
-| 10 | Sayounara Ryuusei, Konnichiwa Jinsei | 3 |
+| 10 | Sayounara Ryuusei, Konnichiwa Jinsei | 4 |
 | 11 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 3 |
 | 12 | Shangri-la Frontier | 3 | 
 | 13 | Dragon ball Daima | 2 | 
-| 14 | Bleach- Arco final - 3 temporada | 3 | 
-| 15 | Blue Exorcist | 2 |  
+| 14 | Bleach- Arco final - 3 temporada | 4 | 
+| 15 | Blue Exorcist | 3 |  
 | 16 | Tower of Gods | 16 |
 
