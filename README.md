@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 13/10/2024
+Data de Atualização: 01/11/2024
 
 -------------------------------------------
 
@@ -246,20 +246,18 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | One Piece 14T | 1122 | 
-| 2 | Boku no Hero 7T | 159 | 
-| 3 | Isekai Suicide Squad | 6 | 
-| 4 | Dandadan | 4 | 
-| 5 | Bluelock | 4 | 
-| 6 | Re:Zero 3 - temporada | 3 | 
-| 7 | Dungeon ni deai - 4 temporada | 3 | 
-| 8 | FAIRY TAIL 100 YEARS QUEST | 15 |
-| 9 | Maou,Retry! R | 4 | 
-| 10 | Sayounara Ryuusei, Konnichiwa Jinsei | 4 |
-| 11 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 4 |
-| 12 | Shangri-la Frontier | 4 | 
-| 13 | Dragon ball Daima | 3 | 
-| 14 | Bleach- Arco final - 3 temporada | 5 | 
-| 15 | Blue Exorcist | 4 |  
-| 16 | Tower of Gods | 17 |
+| 1 | Isekai Suicide Squad | 6 | 
+| 2 | Dandadan | 5 | 
+| 3 | Bluelock | 4 | 
+| 4 | Re:Zero 3 - temporada | 5 | 
+| 5 | Dungeon ni deai - 4 temporada | 3 | 
+| 6 | FAIRY TAIL 100 YEARS QUEST | 16 |
+| 7 | Maou,Retry! R | 3 | 
+| 8 | Sayounara Ryuusei, Konnichiwa Jinsei | 5 |
+| 9 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 4 |
+| 10 | Shangri-la Frontier | 3 | 
+| 11 | Dragon ball Daima | 4 | 
+| 12 | Bleach- Arco final - 3 temporada | 5 | 
+| 13 | Blue Exorcist | 4 |  
+| 14 | Tower of Gods | 16 |
 
