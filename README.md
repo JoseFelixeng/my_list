@@ -238,7 +238,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 3 |  One Piece | 9.8 ⭐| Acompanhando | 
 | 4 |  Hunter x Hunter | 9.2 ⭐| Cap:145 | 
 | 5 |  Solo Leveling | 8.4 ⭐| 100% |
-
+| 6 | Berserk | 7.5 ⭐ | 277 | 
 
 
 ## Animes da Temporada 
@@ -260,4 +260,4 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 12 | Bleach- Arco final - 3 temporada | 5 | 
 | 13 | Blue Exorcist | 4 |  
 | 14 | Tower of Gods | 16 |
-| 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 1 | 
+| 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 1 |
