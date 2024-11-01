@@ -260,4 +260,4 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 12 | Bleach- Arco final - 3 temporada | 5 | 
 | 13 | Blue Exorcist | 4 |  
 | 14 | Tower of Gods | 16 |
-
+| 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 1 | 
