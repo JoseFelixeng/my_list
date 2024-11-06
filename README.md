@@ -248,16 +248,16 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 |---|---| --- | 
 | 1 | Isekai Suicide Squad | 6 | 
 | 2 | Dandadan | 5 | 
-| 3 | Bluelock | 4 | 
-| 4 | Re:Zero 3 - temporada | 5 | 
-| 5 | Dungeon ni deai - 4 temporada | 3 | 
-| 6 | FAIRY TAIL 100 YEARS QUEST | 16 |
-| 7 | Maou,Retry! R | 3 | 
-| 8 | Sayounara Ryuusei, Konnichiwa Jinsei | 5 |
-| 9 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 4 |
-| 10 | Shangri-la Frontier | 3 | 
+| 3 | Bluelock | 5 | 
+| 4 | Re:Zero 3 - temporada | 6 | 
+| 5 | Dungeon ni deai - 4 temporada | 5 | 
+| 6 | FAIRY TAIL 100 YEARS QUEST | 17 |
+| 7 | Maou,Retry! R | 5 | 
+| 8 | Sayounara Ryuusei, Konnichiwa Jinsei | 6 |
+| 9 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 5 |
+| 10 | Shangri-la Frontier | 5 | 
 | 11 | Dragon ball Daima | 4 | 
-| 12 | Bleach- Arco final - 3 temporada | 5 | 
-| 13 | Blue Exorcist | 4 |  
+| 12 | Bleach- Arco final - 3 temporada | 6 | 
+| 13 | Blue Exorcist | 5 |  
 | 14 | Tower of Gods | 16 |
 | 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 1 |
