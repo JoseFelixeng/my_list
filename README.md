@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 01/11/2024
+Data de Atualização: 11/11/2024
 
 -------------------------------------------
 
@@ -207,7 +207,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 189 | Tsue to Tsurugi no Wistoria | 8.2 ⭐ | Anime | Aventura |
 | 190 | Sayounara Ryuusei, Konnichiwa Jinsei | 8.2 ⭐ | Anime | Isekai-Aventura | 
 | 191 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki  | 7.0 ⭐ | Anime | Isekai-Aventura | 
-
+| 192 | Hyouken no Majutsushi ga Sekai wo Suberu | 6.6 ⭐ | Anime | Aventura |
 
 ## Filmes de Animes 
 
@@ -246,18 +246,18 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Isekai Suicide Squad | 6 | 
-| 2 | Dandadan | 5 | 
-| 3 | Bluelock | 5 | 
+| 1 | Isekai Suicide Squad | 8 | 
+| 2 | Dandadan | 6 | 
+| 3 | Bluelock | 6 | 
 | 4 | Re:Zero 3 - temporada | 6 | 
-| 5 | Dungeon ni deai - 4 temporada | 5 | 
-| 6 | FAIRY TAIL 100 YEARS QUEST | 17 |
-| 7 | Maou,Retry! R | 5 | 
+| 5 | Dungeon ni deai - 4 temporada | 6 | 
+| 6 | FAIRY TAIL 100 YEARS QUEST | 18 |
+| 7 | Maou,Retry! R | 6 | 
 | 8 | Sayounara Ryuusei, Konnichiwa Jinsei | 6 |
-| 9 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 5 |
-| 10 | Shangri-la Frontier | 5 | 
-| 11 | Dragon ball Daima | 4 | 
-| 12 | Bleach- Arco final - 3 temporada | 6 | 
-| 13 | Blue Exorcist | 5 |  
-| 14 | Tower of Gods | 16 |
-| 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 1 |
+| 9 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 6 |
+| 10 | Shangri-la Frontier | 6 | 
+| 11 | Dragon ball Daima | 5 | 
+| 12 | Bleach- Arco final - 3 temporada | 7 | 
+| 13 | Blue Exorcist | 6 |  
+| 14 | Tower of Gods | 17 |
+| 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 2 |
