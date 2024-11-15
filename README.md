@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 11/11/2024
+Data de Atualização: 14/11/2024
 
 -------------------------------------------
 
@@ -260,4 +260,4 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 12 | Bleach- Arco final - 3 temporada | 7 | 
 | 13 | Blue Exorcist | 6 |  
 | 14 | Tower of Gods | 17 |
-| 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 2 |
+| 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 4 |
