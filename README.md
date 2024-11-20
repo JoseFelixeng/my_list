@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 14/11/2024
+Data de Atualização: 20/11/2024
 
 -------------------------------------------
 
@@ -209,8 +209,9 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 191 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki  | 7.0 ⭐ | Anime | Isekai-Aventura | 
 | 192 | Hyouken no Majutsushi ga Sekai wo Suberu | 6.6 ⭐ | Anime | Aventura |
 
-## Filmes de Animes 
 
+
+## Filmes de Animes 
 
 | List  |  Name |  Note | Type |
 | --- | --- | --- | --- |
@@ -228,7 +229,6 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 
 
-
 # Mangas
 
 | List  |  Name |  Note | Status |
@@ -242,7 +242,6 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 
 ## Animes da Temporada 
-
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
@@ -260,4 +259,4 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 12 | Bleach- Arco final - 3 temporada | 7 | 
 | 13 | Blue Exorcist | 6 |  
 | 14 | Tower of Gods | 17 |
-| 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 4 |
+| 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 6 |
