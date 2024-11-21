@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 20/11/2024
+Data de Atualização: 21/11/2024
 
 -------------------------------------------
 
@@ -246,7 +246,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | List  |  Name |  Episodio | 
 |---|---| --- | 
 | 1 | Isekai Suicide Squad | 8 | 
-| 2 | Dandadan | 6 | 
+| 2 | Dandadan | 7 | 
 | 3 | Bluelock | 6 | 
 | 4 | Re:Zero 3 - temporada | 6 | 
 | 5 | Dungeon ni deai - 4 temporada | 6 | 
@@ -259,4 +259,4 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 12 | Bleach- Arco final - 3 temporada | 7 | 
 | 13 | Blue Exorcist | 6 |  
 | 14 | Tower of Gods | 17 |
-| 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 6 |
+| 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 7 |
