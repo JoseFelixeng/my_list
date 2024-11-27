@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 23/11/2024
+Data de Atualização: 27/11/2024
 
 -------------------------------------------
 
@@ -236,7 +236,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 1 |  Naruto | 9.0 ⭐| 100% | 
 | 2 |  Bleach | 7.5 ⭐| 100% | 
 | 3 |  One Piece | 9.8 ⭐| Acompanhando | 
-| 4 |  Hunter x Hunter | 9.2 ⭐| Cap:145 | 
+| 4 |  Hunter x Hunter | 9.2 ⭐| Cap:147 | 
 | 5 |  Solo Leveling | 8.4 ⭐| 100% |
 | 6 | Berserk | 7.5 ⭐ | 277 | 
 
@@ -254,9 +254,9 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 7 | Maou,Retry! R | 9 | 
 | 8 | Sayounara Ryuusei, Konnichiwa Jinsei | 8 |
 | 9 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 8 |
-| 10 | Shangri-la Frontier | 6 | 
+| 10 | Shangri-la Frontier | 8 | 
 | 11 | Dragon ball Daima | 7 | 
 | 12 | Bleach- Arco final - 3 temporada | 8 | 
-| 13 | Blue Exorcist | 8 |  
+| 13 | Blue Exorcist | 9 |  
 | 14 | Tower of Gods | 20 |
 | 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 7 |
