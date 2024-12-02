@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 27/11/2024
+Data de Atualização: 02/12/2024
 
 -------------------------------------------
 
@@ -246,17 +246,17 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | List  |  Name |  Episodio | 
 |---|---| --- | 
 | 1 | Isekai Suicide Squad | 8 | 
-| 2 | Dandadan | 8 | 
-| 3 | Bluelock | 8 | 
+| 2 | Dandadan | 9 | 
+| 3 | Bluelock | 9 | 
 | 4 | Re:Zero 3 - temporada | 8 | 
 | 5 | Dungeon ni deai - 4 temporada | 8 | 
-| 6 | FAIRY TAIL 100 YEARS QUEST | 19 |
-| 7 | Maou,Retry! R | 9 | 
-| 8 | Sayounara Ryuusei, Konnichiwa Jinsei | 8 |
-| 9 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 8 |
-| 10 | Shangri-la Frontier | 8 | 
-| 11 | Dragon ball Daima | 7 | 
+| 6 | FAIRY TAIL 100 YEARS QUEST | 21 |
+| 7 | Maou,Retry! R | 10 | 
+| 8 | Sayounara Ryuusei, Konnichiwa Jinsei | 9 |
+| 9 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 9 |
+| 10 | Shangri-la Frontier | 9 | 
+| 11 | Dragon ball Daima | 9 | 
 | 12 | Bleach- Arco final - 3 temporada | 8 | 
 | 13 | Blue Exorcist | 9 |  
-| 14 | Tower of Gods | 20 |
+| 14 | Tower of Gods | 21 |
 | 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 7 |
