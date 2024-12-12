@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 02/12/2024
+Data de Atualização: 12/12/2024
 
 -------------------------------------------
 
@@ -246,17 +246,17 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | List  |  Name |  Episodio | 
 |---|---| --- | 
 | 1 | Isekai Suicide Squad | 8 | 
-| 2 | Dandadan | 9 | 
-| 3 | Bluelock | 9 | 
+| 2 | Dandadan | 10 | 
+| 3 | Bluelock | 10 | 
 | 4 | Re:Zero 3 - temporada | 8 | 
-| 5 | Dungeon ni deai - 4 temporada | 8 | 
-| 6 | FAIRY TAIL 100 YEARS QUEST | 21 |
-| 7 | Maou,Retry! R | 10 | 
-| 8 | Sayounara Ryuusei, Konnichiwa Jinsei | 9 |
-| 9 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 9 |
-| 10 | Shangri-la Frontier | 9 | 
-| 11 | Dragon ball Daima | 9 | 
-| 12 | Bleach- Arco final - 3 temporada | 8 | 
-| 13 | Blue Exorcist | 9 |  
-| 14 | Tower of Gods | 21 |
+| 5 | Dungeon ni deai - 4 temporada | 9 | 
+| 6 | FAIRY TAIL 100 YEARS QUEST | 22 |
+| 7 | Maou,Retry! R | 11 | 
+| 8 | Sayounara Ryuusei, Konnichiwa Jinsei | 10 |
+| 9 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | 10 |
+| 10 | Shangri-la Frontier | 10 | 
+| 11 | Dragon ball Daima | 10 | 
+| 12 | Bleach- Arco final - 3 temporada | 10 | 
+| 13 | Blue Exorcist | 11 |  
+| 14 | Tower of Gods | 23 |
 | 15 | Hyouken no Majutsushi ga Sekai wo Suberu | 7 |
