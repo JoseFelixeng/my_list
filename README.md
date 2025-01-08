@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 22/12/2024
+Data de Atualização: 07/01/2025
 
 -------------------------------------------
 
@@ -245,15 +245,5 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Isekai Suicide Squad | 8 | 
-| 2 | Dandadan | 12 | 
-| 3 | Bluelock | 11 | 
-| 5 | Dungeon ni deai - 4 temporada | 11 | 
-| 6 | FAIRY TAIL 100 YEARS QUEST | 23 |
-| 7 | Maou,Retry! R | 12 | 
-| 10 | Shangri-la Frontier | 9 | 
-| 11 | Dragon ball Daima | 11 | 
-| 12 | Bleach- Arco final - 3 temporada | 10 | 
-| 13 | Blue Exorcist | 10 |  
-| 14 | Tower of Gods | 23 |
+| 1 | Solo Leveling - temporada 2 | 1 |
 
