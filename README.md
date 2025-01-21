@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 10/01/2025
+Data de Atualização: 11/01/2025
 
 -------------------------------------------
 
@@ -245,9 +245,9 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Solo Leveling - temporada 2 | 1 |
-| 2 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 2 | 
-| 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | 2 | 
-| 4 | Shangri-la Frontier | 12 | 
-| 5 | Dragon Ball Daima | 13 | 
-| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 1 |
+| 1 | Solo Leveling - temporada 2 | 3 |
+| 2 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 3 | 
+| 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | 3 | 
+| 4 | Shangri-la Frontier | 15 | 
+| 5 | Dragon Ball Daima | 14 | 
+| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 2 |
