@@ -208,6 +208,10 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 190 | Sayounara Ryuusei, Konnichiwa Jinsei | 8.2 ⭐ | Anime | Isekai-Aventura | 
 | 191 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki  | 7.0 ⭐ | Anime | Isekai-Aventura | 
 | 192 | Hyouken no Majutsushi ga Sekai wo Suberu | 6.6 ⭐ | Anime | Aventura |
+| 193 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | 7.0 ⭐ | Isekai |
+| 194 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 7.0 ⭐ | Isekai/Aventura |
+| 196 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 6.5 ⭐ | Aventura | 
+| 197 | Sentai Red Isekai de Boukensha ni Naru | 7.0 ⭐ | Isekai/Aventura |
 
 
 
@@ -227,6 +231,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 10 | Amagi Brilliant Park |  8.0 ⭐ | Comédia |
 | 11 | Sen to Chihiro no Kamikakushi |  8.8 ⭐ | Drama/Romance |
 
+ 
 
 
 # Mangas
@@ -251,3 +256,4 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 4 | Shangri-la Frontier | 15 | 
 | 5 | Dragon Ball Daima | 14 | 
 | 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 2 |
+| 7 | Sentai Red Isekai de Boukensha ni Naru | 2 | 
