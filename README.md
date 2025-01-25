@@ -212,7 +212,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 194 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 7.0 ⭐ | Isekai/Aventura |
 | 196 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 6.5 ⭐ | Aventura | 
 | 197 | Sentai Red Isekai de Boukensha ni Naru | 7.0 ⭐ | Isekai/Aventura |
-
+| 198 | S-Rank Monster no Behemoth dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu | 7.0 ⭐ | Aventura | 
 
 
 ## Filmes de Animes 
@@ -257,3 +257,4 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 5 | Dragon Ball Daima | 15 | 
 | 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 3 |
 | 7 | Sentai Red Isekai de Boukensha ni Naru | 3 | 
+| 8 | S-Rank Monster no Behemoth dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu | 5 | 
