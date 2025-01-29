@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 25/01/2025
+Data de Atualização: 29/01/2025
 
 -------------------------------------------
 
@@ -255,6 +255,6 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | 4 | 
 | 4 | Shangri-la Frontier | 15 | 
 | 5 | Dragon Ball Daima | 15 | 
-| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 3 |
-| 7 | Sentai Red Isekai de Boukensha ni Naru | 3 | 
+| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 4 |
+| 7 | Sentai Red Isekai de Boukensha ni Naru | 4 | 
 | 8 | S-Rank Monster no Behemoth dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu | 5 | 
