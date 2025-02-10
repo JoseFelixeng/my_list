@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 05/01/2025
+Data de Atualização: 12/02/2025
 
 -------------------------------------------
 
@@ -213,6 +213,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 196 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 6.5 ⭐ | Aventura | 
 | 197 | Sentai Red Isekai de Boukensha ni Naru | 7.0 ⭐ | Isekai/Aventura |
 | 198 | S-Rank Monster no Behemoth dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu | 7.0 ⭐ | Aventura | 
+| 199 | Maou 2099 | 8.0 ⭐ | Isekai | 
 
 
 ## Filmes de Animes 
@@ -238,23 +239,24 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Note | Status |
 |---|---| --- | --- |
-| 1 |  Naruto | 9.0 ⭐| 100% | 
-| 2 |  Bleach | 7.5 ⭐| 100% | 
-| 3 |  One Piece | 9.8 ⭐| Acompanhando | 
-| 4 |  Hunter x Hunter | 9.2 ⭐| Cap:147 | 
-| 5 |  Solo Leveling | 8.4 ⭐| 100% |
-| 6 | Berserk | 7.5 ⭐ | 277 | 
+| 1 | Naruto | 9.0 ⭐| 100% | 
+| 2 | Bleach | 7.5 ⭐| 100% | 
+| 3 | One Piece | 9.8 ⭐| Acompanhando | 
+| 4 | Hunter x Hunter | 9.2 ⭐| Cap:147 | 
+| 5 | Solo Leveling | 8.4 ⭐| 100% |
+| 6 | Berserk | 7.5 ⭐ | 285 | 
 
 
 ## Animes da Temporada 
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Solo Leveling - temporada 2 | 5 |
-| 2 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 5 | 
-| 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | 5 | 
-| 4 | Shangri-la Frontier | 16 | 
-| 5 | Dragon Ball Daima | 15 | 
-| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 5 |
-| 7 | Sentai Red Isekai de Boukensha ni Naru | 5 | 
+| 1 | Solo Leveling - temporada 2 | 6  |
+| 2 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 6 | 
+| 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | 6 | 
+| 4 | Shangri-la Frontier | 18 | 
+| 5 | Dragon Ball Daima | 16 | 
+| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 6 |
+| 7 | Sentai Red Isekai de Boukensha ni Naru | 6 | 
 | 8 | S-Rank Monster no Behemoth dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu | 6 | 
+| 9 | Maou 2099 | 4 | 
