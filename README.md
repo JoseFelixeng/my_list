@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 20/02/2025
+Data de Atualização: 26/02/2025
 
 -------------------------------------------
 
@@ -214,6 +214,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 197 | Sentai Red Isekai de Boukensha ni Naru | 7.0 ⭐ | Isekai/Aventura |
 | 198 | S-Rank Monster no Behemoth dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu | 7.0 ⭐ | Aventura | 
 | 199 | Maou 2099 | 8.0 ⭐ | Isekai | 
+| 200 | Sakamoto Days | 9.0 ⭐ | Ação | 
 
 
 ## Filmes de Animes 
@@ -251,13 +252,14 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Solo Leveling - temporada 2 | 7  |
-| 2 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 8 | 
-| 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | 8 | 
-| 4 | Shangri-la Frontier | 18 | 
-| 5 | Dragon Ball Daima | 18 | 
-| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 7 |
-| 7 | Sentai Red Isekai de Boukensha ni Naru | 8 | 
+| 1 | Solo Leveling - temporada 2 | 8  |
+| 2 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 9 | 
+| 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | 9 | 
+| 4 | Shangri-la Frontier | 19 | 
+| 5 | Dragon Ball Daima | 19 | 
+| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 88 |
+| 7 | Sentai Red Isekai de Boukensha ni Naru | 9 | 
 | 8 | S-Rank Monster no Behemoth dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu | 3 | 
-| 9 | Maou 2099 | 12 | 
+| 9 | Maou 2099 | completo | 
 |10 | Re-zero | 11 |
+| 11 | Sakamoto Days | 7 | 
