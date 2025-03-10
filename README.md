@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 26/02/2025
+Data de Atualização: 10/03/2025
 
 -------------------------------------------
 
@@ -252,14 +252,14 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Solo Leveling - temporada 2 | 8  |
-| 2 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 9 | 
-| 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | 9 | 
-| 4 | Shangri-la Frontier | 19 | 
-| 5 | Dragon Ball Daima | 19 | 
-| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 88 |
-| 7 | Sentai Red Isekai de Boukensha ni Naru | 9 | 
+| 1 | Solo Leveling - temporada 2 | 11 |
+| 2 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 11 | 
+| 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | 11 | 
+| 4 | Shangri-la Frontier | 21 | 
+| 5 | Dragon Ball Daima | Completo | 
+| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 11 |
+| 7 | Sentai Red Isekai de Boukensha ni Naru | 11 | 
 | 8 | S-Rank Monster no Behemoth dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu | 3 | 
 | 9 | Maou 2099 | completo | 
-|10 | Re-zero | 11 |
+|10 | Re-zero | 13 |
 | 11 | Sakamoto Days | 7 | 
