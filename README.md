@@ -248,18 +248,18 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 6 | Berserk | 7.5 ⭐ | 287 | 
 
 
-## Animes da Temporada 
+## Animes da Temporada ABRIL/20
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Solo Leveling - temporada 2 | 12 |
-| 2 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 12 | 
-| 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | 12 | 
-| 4 | Shangri-la Frontier | 22 | 
+| 1 | Solo Leveling - temporada 2 | COMPLETO |
+| 2 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | COMPLETO | 
+| 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | COMPLETO | 
+| 4 | Shangri-la Frontier | COMPLETO | 
 | 5 | Dragon Ball Daima | Completo | 
-| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 12 |
-| 7 | Sentai Red Isekai de Boukensha ni Naru | 12 | 
+| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | COMPLETO |
+| 7 | Sentai Red Isekai de Boukensha ni Naru | COMPLETO | 
 | 8 | S-Rank Monster no Behemoth dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu | 3 | 
 | 9 | Maou 2099 | completo | 
-|10 | Re-zero | 14 |
+|10 | Re-zero | COMPLETO |
 | 11 | Sakamoto Days | 10 | 
