@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 01/04/2025
+Data de Atualização: 08/04/2025
 
 -------------------------------------------
 
@@ -212,9 +212,11 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 194 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | 7.0 ⭐ | Isekai/Aventura |
 | 196 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | 6.5 ⭐ | Aventura | 
 | 197 | Sentai Red Isekai de Boukensha ni Naru | 7.0 ⭐ | Isekai/Aventura |
-| 198 | S-Rank Monster no Behemoth dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu | 7.0 ⭐ | Aventura | 
+| 198 | Sakamoto Days | 7.0 ⭐ | Aventura | 
 | 199 | Maou 2099 | 8.0 ⭐ | Isekai | 
-| 200 | Sakamoto Days | 9.0 ⭐ | Ação | 
+| 200 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 9.0 ⭐ | Ação | 
+| 201 | Tu Bian Yingxiong X | ⭐ 7.0 |
+
 
 
 ## Filmes de Animes 
@@ -252,14 +254,10 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Solo Leveling - temporada 2 | COMPLETO |
-| 2 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita | COMPLETO | 
-| 3 | Hazure Skill Kinomi Master: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite | COMPLETO | 
-| 4 | Shangri-la Frontier | COMPLETO | 
-| 5 | Dragon Ball Daima | Completo | 
-| 6 | Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta | COMPLETO |
-| 7 | Sentai Red Isekai de Boukensha ni Naru | COMPLETO | 
-| 8 | S-Rank Monster no Behemoth dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu | 3 | 
-| 9 | Maou 2099 | completo | 
-|10 | Re-zero | COMPLETO |
-| 11 | Sakamoto Days | 10 | 
+| 1 | Fire force - 3 temporada | 1 |
+| 2 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 1 |
+| 3 | One Piece | 1023 |
+| 4 | Lazarus | 1 |
+| 5 | Tu Bian Yingxiong X | 1 |
+| 6 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | 2 | 
+| 7 | Vigilante: Boku no Hero Academia Illegals | 1 |
