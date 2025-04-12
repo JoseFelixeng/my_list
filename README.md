@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 08/04/2025
+Data de Atualização: 12/04/2025
 
 -------------------------------------------
 
@@ -254,9 +254,9 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Fire force - 3 temporada | 1 |
-| 2 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 1 |
-| 3 | One Piece | 1023 |
+| 1 | Fire force - 3 temporada | 2 |
+| 2 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 2 |
+| 3 | One Piece | 1024 |
 | 4 | Lazarus | 1 |
 | 5 | Tu Bian Yingxiong X | 1 |
 | 6 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | 2 | 
