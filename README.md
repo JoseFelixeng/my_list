@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 12/04/2025
+Data de Atualização: 13/04/2025
 
 -------------------------------------------
 
@@ -216,7 +216,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 199 | Maou 2099 | 8.0 ⭐ | Isekai | 
 | 200 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 9.0 ⭐ | Ação | 
 | 201 | Tu Bian Yingxiong X | ⭐ 7.0 |
-
+| 202 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi  | 9.0 ⭐ | Ação | 
 
 
 ## Filmes de Animes 
@@ -256,8 +256,8 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 |---|---| --- | 
 | 1 | Fire force - 3 temporada | 2 |
 | 2 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 2 |
-| 3 | One Piece | 1024 |
+| 3 | One Piece | 1025 |
 | 4 | Lazarus | 1 |
-| 5 | Tu Bian Yingxiong X | 1 |
-| 6 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | 2 | 
+| 5 | Tu Bian Yingxiong X | 2 |
+| 6 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | 3 | 
 | 7 | Vigilante: Boku no Hero Academia Illegals | 1 |
