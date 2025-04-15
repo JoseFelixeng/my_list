@@ -214,10 +214,10 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 197 | Sentai Red Isekai de Boukensha ni Naru | 7.0 ⭐ | Isekai/Aventura |
 | 198 | Sakamoto Days | 7.0 ⭐ | Aventura | 
 | 199 | Maou 2099 | 8.0 ⭐ | Isekai | 
-| 200 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 9.0 ⭐ | Ação | 
-| 201 | Tu Bian Yingxiong X | ⭐ 7.0 |
-| 202 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi  | 9.0 ⭐ | Ação | 
-
+| 200 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 7.0 ⭐ | Ação | 
+| 201 | Tu Bian Yingxiong X | ⭐ 9.0 |
+| 202 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi  | 6.5 ⭐ | Aventura | 
+| 203 | Murenase! Seton Gakuen | 7.0 ⭐ | 
 
 ## Filmes de Animes 
 
@@ -248,6 +248,7 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 4 | Hunter x Hunter | 9.2 ⭐| Cap:147 | 
 | 5 | Solo Leveling | 8.4 ⭐| 100% |
 | 6 | Berserk | 7.5 ⭐ | 287 | 
+| 7 | the beggings after | 7.5 ⭐ | 22 |
 
 
 ## Animes da Temporada ABRIL/20
@@ -257,7 +258,10 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 1 | Fire force - 3 temporada | 2 |
 | 2 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 2 |
 | 3 | One Piece | 1025 |
-| 4 | Lazarus | 1 |
+| 4 | Lazarus | 2 |
 | 5 | Tu Bian Yingxiong X | 2 |
 | 6 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | 3 | 
 | 7 | Vigilante: Boku no Hero Academia Illegals | 1 |
+| 8 | Murenase! Seton Gakuen | 5 |
+| 9 | Sentai Daisshikkaku - 2 Temporada | 1 | 
+| 10 | Katainaka no Ossan | 1 | 
