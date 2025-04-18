@@ -217,7 +217,8 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 200 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 7.0 ⭐ | Ação | 
 | 201 | Tu Bian Yingxiong X | ⭐ 9.0 |
 | 202 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi  | 6.5 ⭐ | Aventura | 
-| 203 | Murenase! Seton Gakuen | 7.0 ⭐ | 
+| 203 | Murenase! Seton Gakuen | 8.0 ⭐ | echi | 
+| 204 | Ranma 1/2 | 8.0 ⭐ | Comédia/Romântica | 
 
 ## Filmes de Animes 
 
