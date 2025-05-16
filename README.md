@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 13/04/2025
+Data de Atualização: 15/04/2025
 
 -------------------------------------------
 
@@ -256,13 +256,13 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Fire force - 3 temporada | 2 |
-| 2 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 2 |
-| 3 | One Piece | 1025 |
+| 1 | Fire force - 3 temporada | 6 |
+| 2 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 6 |
+| 3 | One Piece | 1026 |
 | 4 | Lazarus | 2 |
-| 5 | Tu Bian Yingxiong X | 2 |
-| 6 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | 3 | 
+| 5 | Tu Bian Yingxiong X | 6 |
+| 6 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | 6 | 
 | 7 | Vigilante: Boku no Hero Academia Illegals | 1 |
 | 8 | Murenase! Seton Gakuen | 5 |
-| 9 | Sentai Daisshikkaku - 2 Temporada | 1 | 
+| 9 | Sentai Daisshikkaku - 2 Temporada | 5 | 
 | 10 | Katainaka no Ossan | 1 | 
