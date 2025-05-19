@@ -256,13 +256,13 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Fire force - 3 temporada | 6 |
+| 1 | Fire force - 3 temporada | 7 |
 | 2 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 6 |
 | 3 | One Piece | 1026 |
 | 4 | Lazarus | 2 |
-| 5 | Tu Bian Yingxiong X | 6 |
-| 6 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | 6 | 
+| 5 | Tu Bian Yingxiong X | 7 |
+| 6 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | 7 | 
 | 7 | Vigilante: Boku no Hero Academia Illegals | 1 |
-| 8 | Murenase! Seton Gakuen | 5 |
-| 9 | Sentai Daisshikkaku - 2 Temporada | 5 | 
+| 8 | Murenase! Seton Gakuen | 6 |
+| 9 | Sentai Daisshikkaku - 2 Temporada | 7 | 
 | 10 | Katainaka no Ossan | 1 | 
