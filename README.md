@@ -267,4 +267,4 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 4 | Vigilante: Boku no Hero Academia Illegals | 1 |
 | 5 | Dan da Dan - S2 | 1 |
 | 6 | Guimi Zhi Zhu: Xiaochou Pian (Lord of Mistery) | 2 |
-
+| 7 | Mizu Zokusei no Mahoutsukai (the water magic) | 1 | 
