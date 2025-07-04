@@ -5,7 +5,7 @@
 -------------------------------------------
 Author: Jose Felix
 
-Data de Atualização: 26/06/2025
+Data de Atualização: 04/07/2025
 
 -------------------------------------------
 
@@ -219,6 +219,11 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 202 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi  | 6.5 ⭐ | Aventura | 
 | 203 | Murenase! Seton Gakuen | 8.0 ⭐ | echi | 
 | 204 | Ranma 1/2 | 8.0 ⭐ | Comédia/Romântica | 
+| 205 | Lazarus |  8.0 ⭐ | Mistério | 
+| 206 | Guimi Zhi Zhu: Xiaochou Pian (Lord of Mistery) | 8.0 ⭐ | Mistério | 
+
+
+
 
 ## Filmes de Animes 
 
@@ -249,19 +254,17 @@ Esse repositorio conterá minha lista de anime,filmes,mangá e desenhos assitido
 | 4 | Hunter x Hunter | 9.2 ⭐| Cap:147 | 
 | 5 | Solo Leveling | 8.4 ⭐| 100% |
 | 6 | Berserk | 7.5 ⭐ | 287 | 
-| 7 | the beggings after | 7.5 ⭐ | 22 |
+| 7 | the beggings after | 7.5 ⭐ | 224 |
 
 
 ## Animes da Temporada ABRIL/20
 
 | List  |  Name |  Episodio | 
 |---|---| --- | 
-| 1 | Fire force - 3 temporada | 12 |
-| 2 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | 12 |
-| 3 | One Piece | 1029.5 |
-| 4 | Lazarus | 2 |
-| 5 | Tu Bian Yingxiong X | 11 |
-| 6 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | 12 | 
-| 7 | Vigilante: Boku no Hero Academia Illegals | 1 |
-| 8 | Murenase! Seton Gakuen | 12 |
-| 9 | Sentai Daisshikkaku - 2 Temporada | 11 | 
+| 1 | One Piece | 1030 |
+| 2 | Lazarus | 2 |
+| 3 | Tu Bian Yingxiong X | 12 |
+| 4 | Vigilante: Boku no Hero Academia Illegals | 1 |
+| 5 | Dan da Dan - S2 | 1 |
+| 6 | Guimi Zhi Zhu: Xiaochou Pian (Lord of Mistery) | 2 |
+
