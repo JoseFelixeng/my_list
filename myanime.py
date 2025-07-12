@@ -14,7 +14,7 @@ def salvar_csv(df, path):
 	df.to_csv(path, index=False)
 
 # Caminhos dos CSVs
-CSV_ANIMES = "anime_list.csv"
+CSV_ANIMES = "anime_lista.csv"
 CSV_TEMPORADA = "temporada_animes.csv"
 CSV_MANGAS = "mangas_livros.csv"
 
