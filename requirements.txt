@@ -1,5 +1,3 @@
 plotly
 streamlit 
 pandas
-os
-date
