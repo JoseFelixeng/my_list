@@ -1,0 +1,29 @@
+# Diretórios de build e cache
+node_modules/
+__pycache__/
+dist/
+build/
+site/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Ambiente virtual Python
+venv/
+.env/
+.env.*
+
+# Arquivos do sistema
+*.lock
+*.sqlite3
+
+# Arquivos do VSCode e IDEs
+.vscode/
+.idea/
+*.code-workspace
+
