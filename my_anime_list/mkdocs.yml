@@ -1,6 +1,9 @@
-site_name: Minha lista de animes 
+site_name: Minha lista de animes
+site_url: "https://josefelixeng.github.io/my_list/"
+
 nav:
   - Início: index.md
   - Animes Temporada: temp_animes.md
   - Lendo: read.md
 theme: readthedocs
+
