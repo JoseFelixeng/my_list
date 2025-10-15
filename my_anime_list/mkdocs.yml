@@ -1,0 +1,6 @@
+site_name: Minha lista de animes 
+nav:
+  - Início: index.md
+  - Animes Temporada: temp_animes.md
+  - Lendo: read.md
+theme: readthedocs
