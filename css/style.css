@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+
+    --ff-primary: 'JetBrains Mono', sans-serif;
+    --ft--primary: 'Roboto';
+    --text-color: 111;
+    --hue: 100;
+    --ct-primary: #E5E7EB;
+    --primary-color: #1F2A1F; 
+    --bg--primary-menu:  #2F3E2F; 
+    --ch-primary:#52B788;
+    --ct-primary:#F5F5F4;
+    --ca-primary: #7F1D1D;
+    --mw-primary: 500px;
+}
+
+body { 
+    font-size: 1.6rem;
+    color: var(--ct-primary);
+    background-color: var(--primary-color);
+}
+
+body * {
+    font-family: var(--ff-primary);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2.5rem 0;
+    background: var(--bg--primary-menu);
+    border-radius: 1rem;
+}
+
+header nav div a{
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+header nav div{
+    gap: 1rem;
+    margin: 1rem;
+    align-items: center;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    padding: 0 .4rem .4rem 0;
+
+}
+
+div a {
+    text-decoration: none;
+    border-radius: 1px;
+    color: var(--text-color);
+    font-family: black;
+    font-weight: bold;
+}
+
+
+menu {
+    padding: 2rem;
+    margin: 2rem;
+
+}
+
+main {
+    margin-top: 20rem;
+}
+
+#navegate {
+    padding: 1rem;
+    max-width: var(--mw-primary);
+    margin: 0 auto;
+}
+
+#bodytext {
+    padding: 2rem;
+    margin: 2rem;
+    max-width: var(--mw-primary);
+    max-height: var(--mw-primary);
+    margin: auto auto;
+
+}
+
+#bodytext h1{
+    font-family: var(--ff-primary);
+    font-size: 5rem;
+    margin-bottom: 4rem;
+   text-align: center;
+
+}
+
+#bodytext p {
+    margin: 2rem 1rem;
+    font-family: var(--ft--primary);
+    padding: 3rem;
+    border: var(--ch-primary) .4rem solid;
+    border-radius: 2rem;
+    cursor: pointer;
+}
+
